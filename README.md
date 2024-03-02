@@ -4,6 +4,8 @@
 - 💬 Ask me about **Books and Web development**
 
 - 📫 How to reach me **athulyakairali@gmail.com**
+  ![github gif](https://github.com/Athulyakairali/Athulyakairali/assets/115608973/40e94b64-e355-4632-b4e2-a4163e46fccb)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
