@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/athulya-kairali-503426220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/athulya-kairali-503426220/" height="30" width="40" /></a>
-<a href=![Kusuo-Saiki-GIF-Aesthetic](https://github.com/Athulyakairali/Athulyakairali/assets/115608973/4369722d-049f-44e5-82e7-ce32ff87ad75)></a>  
 </p>
 
 
