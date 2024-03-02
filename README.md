@@ -4,14 +4,13 @@
 - 💬 Ask me about **Books and Web development**
 
 - 📫 How to reach me **athulyakairali@gmail.com**
+![Kusuo-Saiki-GIF-Aesthetic](https://github.com/Athulyakairali/Athulyakairali/assets/115608973/db7b8e67-6e2a-404e-9d5e-d133b06104ea)
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/athulya-kairali-503426220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/athulya-kairali-503426220/" height="30" width="40" /></a>
-  ![github gif](https://github.com/Athulyakairali/Athulyakairali/assets/115608973/f57ec734-cafa-416a-a763-5f76a0d0daf5)
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
